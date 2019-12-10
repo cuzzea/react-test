@@ -1,0 +1,9 @@
+.col {
+    width:20px;
+    height: 20px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.row {
+    padding: 1px;
+}

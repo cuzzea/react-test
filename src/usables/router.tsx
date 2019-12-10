@@ -3,7 +3,7 @@ import Users from 'components/users/users'
 import Contact from 'components/contact/contact'
 import React from 'react'
 import MyMenu from 'usables/menu';
-import Game from 'components/game/game';
+import {Game} from 'components/game/game';
 
 class MyRouter extends React.Component {
   render() {
